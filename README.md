@@ -2,7 +2,7 @@
 ======
 A BETTER Client for Sina Weibo. 
 It lets you browse all categories of Dribbble, popular ,everyone and debuts.
-
+在微博申请的应用接口调用数已经达到上限，稍后会修复，你也可以自己去openweibo申请，替换App内的Appkey等信息，直接可以运行。
 设计简约的第三方微博客户端Onion，提供了全面的浏览功能，让你随时随地发现新鲜事儿！
 
 ![OnionWeibo](https://raw.github.com/BBC6BAE9/OnionWeibo/master/art/pic.jpeg)
